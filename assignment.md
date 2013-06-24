@@ -20,7 +20,7 @@ the output.
   * Each client should have one pet
     * Include a link to the client's respective pets (pet1.html, pet2.html) 
     * Create a link to the pet see a page with their names, breed, age, gender and 
-      their favorite toys
+      their favorite toys, and an image of the pets. 
   * The shelter page should also have links to the pets' pages (to the same
   pages above)
   * We've made blank files with a suggested structure. 
